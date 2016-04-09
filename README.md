@@ -1,2 +1,2 @@
 # Times-table
-Inspired by mthologer, times table simulator.
+Inspired by mathologer, times table simulator.
