@@ -23,3 +23,9 @@ Creates a circumference and highlights specific nodes. Each node given an index.
 2. n = 100, j = 359
 3. n = 1000, j = 3590
 4. n = 1500, j = 1235, s = 0.0001
+5. n = 1000, j = 1751
+6. n = 1000, j = 1801
+7. n = 1000, j = 1826
+8. n = 1000, j = 1833
+9. n = 1000, j = 1857
+10. n = 1000, j = 1997-1999, s = 0.01
