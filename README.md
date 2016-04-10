@@ -16,7 +16,7 @@ Creates a circumference and highlights specific nodes. Each node given an index.
 * **j** - Modify multiplier.
 * **s** - Modify step value.
 * **n** - Modify amount of nodes.
-* **esc** - Double press to exit.
+* **esc** - press to cancel, double press to exit.
 
 #### Cool patterns
 1. n = 1500, j = 125
