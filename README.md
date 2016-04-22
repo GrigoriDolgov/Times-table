@@ -15,7 +15,7 @@ Creates a circumference and highlights specific nodes. Each node given an index 
 * **Down arrow** - Set projection's angle to 0.
 * **j** - Modify multiplier.
 * **s** - Modify step value.
-* **n** - Modify amount of nodes.
+* **n** - Modify modulo(nodes count).
 * **esc** - press to cancel, double press to exit.
 
 #### Cool patterns
