@@ -1,7 +1,7 @@
 # Times-table
-Inspired by [mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg), times table simulator.
+Inspired by [mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg), flexible times table implementation.
 
-Creates a circumference and highlights specific nodes. Each node given an index. Index of current node multiplies by multiplier and the node connects with a line with a computed one. This simple algorithm can give you very beatiful patterns.
+Creates a circumference and highlights specific nodes. Each node given an index. Index of current node **I** multiplies by multiplier **M** and the node connects with a line with a computed one **C**. This simple algorithm can give you very beatiful patterns.
 
 #### Control shortcuts
 * **Space** - Play/Stop simulation.
